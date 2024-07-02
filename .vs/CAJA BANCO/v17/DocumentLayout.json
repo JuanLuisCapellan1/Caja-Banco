@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\formscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\formscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\balance actual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\balance actual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\balance actual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\balance actual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\formscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\formscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|c:\\users\\juanl\\onedrive\\escritorio\\caja banco\\caja banco\\caja banco\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A54D5A-A879-4504-A200-E1924AE0E75C}|CAJA BANCO\\CAJA BANCO.csproj|solutionrelative:caja banco\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\MainForm.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\MainForm.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\MainForm.cs",
+              "RelativeToolTip": "CAJA BANCO\\MainForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAnwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:48:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\MainForm.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\MainForm.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\MainForm.cs [Design]",
+              "RelativeToolTip": "CAJA BANCO\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:48:39.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormsCuentas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\FormsCuentas.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\FormsCuentas.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\FormsCuentas.cs [Design]",
+              "RelativeToolTip": "CAJA BANCO\\FormsCuentas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:48:35.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Balance actual.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Balance actual.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\Balance actual.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Balance actual.cs",
+              "RelativeToolTip": "CAJA BANCO\\Balance actual.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAEwDYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:46:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Balance actual.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Balance actual.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\Balance actual.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Balance actual.cs [Design]",
+              "RelativeToolTip": "CAJA BANCO\\Balance actual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:45:21.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transferencia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Transferencia.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Transferencia.cs [Design]",
+              "RelativeToolTip": "CAJA BANCO\\Transferencia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:45:07.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\LoginForm.cs [Design]",
+              "RelativeToolTip": "CAJA BANCO\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:30:50.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Retiro.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Retiro.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\Retiro.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\Retiro.cs",
+              "RelativeToolTip": "CAJA BANCO\\Retiro.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv2kAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:11:45.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormsCuentas.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\FormsCuentas.cs",
+              "RelativeDocumentMoniker": "CAJA BANCO\\FormsCuentas.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\CAJA BANCO\\CAJA BANCO\\CAJA BANCO\\FormsCuentas.cs",
+              "RelativeToolTip": "CAJA BANCO\\FormsCuentas.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwE4AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:07:05.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

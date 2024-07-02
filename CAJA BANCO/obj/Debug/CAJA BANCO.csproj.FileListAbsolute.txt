@@ -1,0 +1,37 @@
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.MainForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroEfectivoForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.Up2Date
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.FormsCuentas.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.FormPrincipal.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroEfectivo.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroOtraCantidad.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Transferencia.resources
