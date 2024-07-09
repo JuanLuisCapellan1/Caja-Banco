@@ -1,0 +1,352 @@
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.MainForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroEfectivoForm.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\balca\OneDrive\Desktop\CAJA\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.Up2Date
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.FormsCuentas.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.FormPrincipal.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroEfectivo.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroOtraCantidad.resources
+C:\Users\juanl\OneDrive\Escritorio\CAJA BANCO\CAJA BANCO\CAJA BANCO\obj\Debug\CAJA_BANCO.Transferencia.resources
+C:\Users\ismae\OneDrive\Escritorio\Nueva carpeta (2)\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\ismae\OneDrive\Escritorio\Nueva carpeta (2)\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+D:\balca\Documents\Intec\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+D:\balca\Documents\Intec\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\SAID\Downloads\iu Clase\Universidad\Trimestre 7\Desarrollo de software III\Teoria\Caja-Banco-Main\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\SAID\Downloads\iu Clase\Universidad\Trimestre 7\Desarrollo de software III\Teoria\Caja-Banco-Main\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.FormsCuentas.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Main_Form___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.FormPrincipal.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroOtraCantidad.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.Transferencia.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.Up2Date
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarCuentas___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarClientes.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarPerfiles.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarUsuario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTiposTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarBeneficiarios.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.RegistrarBeneficiario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.ReciboTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\obj\Debug\CAJA_BANCO.CuadreTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Azure.Core.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Azure.Identity.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.ValueTuple.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.Buffers.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\EnvDTE.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\stdole.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Azure.Core.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Azure.Identity.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.ValueTuple.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.Buffers.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\EnvDTE.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\stdole.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.CuadreTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarCuentas___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.FormsCuentas.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarBeneficiarios.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarClientes.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarPerfiles.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTiposTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarUsuario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Main_Form___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.ReciboTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.RegistrarBeneficiario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.FormPrincipal.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroOtraCantidad.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA_BANCO.Transferencia.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.Up2Date
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja\Caja-Banco\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+D:\balca\Documents\BancCaja\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+D:\balca\Documents\BancCaja\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.AssemblyReference.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.CuadreTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarCuentas___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Balance_actual.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.EntradaEfectivoForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Factura.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.FormsCuentas.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarBeneficiarios.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarClientes.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarPerfiles.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTiposTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.GestionarUsuario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Main_Form___Admin.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.ReciboTransacciones.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.RegistrarBeneficiario.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Retiro.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.LoginForm.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.FormPrincipal.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Properties.Resources.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.RetiroOtraCantidad.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA_BANCO.Transferencia.resources
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.GenerateResource.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.CoreCompileInputs.cache
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\CAJA BANCO.exe.config
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\CAJA BANCO.exe
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\CAJA BANCO.pdb
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Azure.Core.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Azure.Identity.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.ValueTuple.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.Buffers.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\EnvDTE.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\stdole.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanl\OneDrive\Escritorio\Caja-Banco-Main\Caja-Banco-Develop\CAJA BANCO\obj\Debug\CAJA BANCO.csproj.Up2Date
